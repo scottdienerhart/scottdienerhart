@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scottdienerhart
-- 👀 I’m interested in ...UIPATH and Automation Anywhere
-- 🌱 I’m currently learning ...UIPATH
-- 💞️ I’m looking to collaborate on ...UIPATH
+- 👀 I’m interested in ...databricks
+- 🌱 I’m currently learning ...databricks
+- 💞️ I’m looking to collaborate on ...databricks
 - 📫 How to reach me ...scottdienerhart@demingstreet.com
 
 <!---
